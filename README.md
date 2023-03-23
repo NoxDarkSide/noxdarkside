@@ -16,7 +16,7 @@
   <img align="center" alt="Nox-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nox-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nox-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nox-pic" height="150" style="border-radius:50px;" src="https://2.bp.blogspot.com/-w_tD3nf51I0/Vum4SdHh36I/AAAAAAAATQg/0zxzDw2EyDY3JuhnMuwnghFVsvHAvO_iw/s1600/211.png?width=676&height=676">
+  <img align="right" alt="Nox-pic" height="150" style="border-radius:50px;" src="[https://2.bp.blogspot.com/-w_tD3nf51I0/Vum4SdHh36I/AAAAAAAATQg/0zxzDw2EyDY3JuhnMuwnghFVsvHAvO_iw/s1600/211.png?width=676&height=676](https://static.wikia.nocookie.net/p__/images/b/b9/Joel-Character.jpg/revision/latest?cb=20190520044826&path-prefix=protagonist)">
 </div>
   
 ##
