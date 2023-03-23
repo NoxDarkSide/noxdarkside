@@ -1,16 +1,31 @@
-### Hi there 👋
+## Olá! Sou Breno Morais!!
 
-<!--
-**NoxDarkSide/noxdarkside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje sou estudante de Front End
+- 🌱 Também estudando Back End
+- 📫 Fale comigo no email: breno.abedran@gmail.com
+- ⚡ Fato engraçado: Faço lives na https://twitch.tv/noxdarkside
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/noxdarkside">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=noxdarkside&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxdarkside&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nox-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nox-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nox-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nox-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nox-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Nox-pic" height="150" style="border-radius:50px;" src="https://2.bp.blogspot.com/-w_tD3nf51I0/Vum4SdHh36I/AAAAAAAATQg/0zxzDw2EyDY3JuhnMuwnghFVsvHAvO_iw/s1600/211.png?width=676&height=676">
+</div>
+  
+##
+  
+<div> 
+  <a href="https://www.instagram.com/nox_darkside/" target="_blank"><img src="https://pbs.twimg.com/media/EtOW5BEVcAIqKxd?format=jpg&name=medium" target="_blank"></a>
+  <a href = "mailto:breno.abedran@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/breno-machado-morais-a8a7b8157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+![Snake animation](https://github.com/noxdarkside/noxdarkside/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
