@@ -25,9 +25,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 src="https://pbs.twimg.com/media/EtOW5BEVcAIqKxd?format=jpg&name=medium">
 </div>
   
-##
-
-// Redes Sociais
+## Conecte-se Comigo
 <div> 
   <a href="https://www.instagram.com/nox_darkside/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
