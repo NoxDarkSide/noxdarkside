@@ -21,7 +21,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nox-CSS" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nox-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Nox-pic" height="150" style="border-radius:50;" 
 src="https://pbs.twimg.com/media/EtOW5BEVcAIqKxd?format=jpg&name=medium">
 </div>
   
