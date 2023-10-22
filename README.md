@@ -27,7 +27,6 @@ src="https://pbs.twimg.com/media/EtOW5BEVcAIqKxd?format=jpg&name=medium">
 ## Conecte-se Comigo
   <a href="https://www.linkedin.com/in/BrenoMMorais/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- 
-//![Snake animation](https://github.com/noxdarkside/noxdarkside/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
