@@ -3,7 +3,6 @@
 - 🔭 Hoje sou estudante de Front End
 - 🌱 Também estudando Back End
 - 📫 Fale comigo no email: breno.abedran@gmail.com
-- ⚡ Fato engraçado: Faço lives na https://twitch.tv/noxdarkside
 
 <div align="center">
   <a href="https://github.com/BrenoMMorais">
@@ -26,14 +25,9 @@ src="https://pbs.twimg.com/media/EtOW5BEVcAIqKxd?format=jpg&name=medium">
 </div>
   
 ## Conecte-se Comigo
-<div> 
-  <a href="https://www.instagram.com/nox_darkside/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:breno.abedran@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/BrenoMMorais/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
-![Snake animation](https://github.com/noxdarkside/noxdarkside/blob/output/github-contribution-grid-snake.svg)
+//![Snake animation](https://github.com/noxdarkside/noxdarkside/blob/output/github-contribution-grid-snake.svg)
  
 </div>
